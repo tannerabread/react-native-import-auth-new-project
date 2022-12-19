@@ -1,0 +1,32 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-federatedcallback-dev-95813-authRole",
+      "UnauthRoleArn": "arn:aws:iam::296215747775:role/amplify-federatedcallback-dev-95813-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::296215747775:role/amplify-federatedcallback-dev-95813-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-federatedcallback-dev-95813-deployment",
+      "UnauthRoleName": "amplify-federatedcallback-dev-95813-unauthRole",
+      "StackName": "amplify-federatedcallback-dev-95813",
+      "StackId": "arn:aws:cloudformation:us-east-1:296215747775:stack/amplify-federatedcallback-dev-95813/f7132610-7190-11ed-8d08-0ab517bfd02d",
+      "AmplifyAppId": "d3mdkwo5ypa4z9"
+    },
+    "categories": {
+      "auth": {
+        "federatedcallbackab920e06": {
+          "userPoolId": "us-east-1_lmiptv8LF",
+          "userPoolName": "federatedauth4aa03bdf_userpool_4aa03bdf-dev",
+          "webClientId": "3nlq7bkem00evb08nivd09pd4l",
+          "nativeClientId": "5282v90mmfb5h27dntheaehquk",
+          "identityPoolId": "us-east-1:1603ed82-2dd6-4500-8a4b-35d545583826",
+          "identityPoolName": "federatedauth4aa03bdf_identitypool_4aa03bdf__dev",
+          "allowUnauthenticatedIdentities": false,
+          "authRoleArn": "arn:aws:iam::296215747775:role/amplify-federatedauth-dev-132607-authRole",
+          "authRoleName": "amplify-federatedauth-dev-132607-authRole",
+          "unauthRoleArn": "arn:aws:iam::296215747775:role/amplify-federatedauth-dev-132607-unauthRole",
+          "unauthRoleName": "amplify-federatedauth-dev-132607-unauthRole"
+        }
+      }
+    }
+  }
+}

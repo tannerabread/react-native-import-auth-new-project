@@ -1,0 +1,21 @@
+{
+  "authSelections": "identityPoolAndUserPool",
+  "resourceName": "federatedcallbackab920e06",
+  "serviceType": "imported",
+  "region": "us-east-1",
+  "authProvidersUserPool": [
+    "Google"
+  ],
+  "requiredAttributes": [
+    "email"
+  ],
+  "passwordPolicyMinLength": 8,
+  "passwordPolicyCharacters": [],
+  "mfaConfiguration": "OPTIONAL",
+  "autoVerifiedAttributes": [
+    "email"
+  ],
+  "mfaTypes": [
+    "TOTP"
+  ]
+}

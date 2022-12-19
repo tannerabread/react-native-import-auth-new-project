@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "federatedcallbackab920e06": {
+      "service": "Cognito",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
